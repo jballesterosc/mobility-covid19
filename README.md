@@ -11,11 +11,12 @@ Data Visualization template for [Google's COVID-19 Community Mobility Reports](h
 ![](https://i.imgur.com/ThUxPlk.png)
 
 # Release information
-----
+
 ## 0.2.0
 - Code changed to Altair
 - urban_theme from [_Chekos_](https://github.com/chekos) repo: [altair_themes_blog](https://github.com/chekos/altair_themes_blog)
+
 ## 0.1.0
----
+
 First release.
 - Developed on Matplotlib
