@@ -3,12 +3,14 @@ Data Visualization template for [Google's COVID-19 Community Mobility Reports](h
 
 ## Example 
 ### Colima, México. 
+![Colima](https://i.imgur.com/B9vWgPx.png)
 
-![Example](https://i.imgur.com/K3Shn9p.png)
+## Mexico City.
+![CDMX](https://i.imgur.com/jwsm5fK.png)
 
 # Note
-- The data in this notebook is filtered from March 15 to November 17 because of the pandemic's conjuncture of the Colima's example, but the data's earliest avaliable date is February 15.
-![](https://i.imgur.com/ThUxPlk.png)
+- The data in this notebook (_mobility.ipynb_) is filtered from March 15 to November 15 because of the pandemic's conjuncture of the Colima's example, but the data's earliest avaliable date is February 15.
+![](https://i.imgur.com/ntN1Ydk.png)
 
 # Release information
 ## 0.2.1
